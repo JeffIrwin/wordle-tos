@@ -40,3 +40,8 @@ LICENSE
 -------
 
 This software is licensed under the DBAD license. Click [here](LICENSE.md) for more details.
+
+Inheritor's note
+----------------
+
+Jeff Irwin forked this from the now-deleted origin https://git.checksum.fail/slendi/WordleTOS.git
